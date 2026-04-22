@@ -1,0 +1,615 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="######## SPEZIAL ########" group-title="RU| RUSSIAN HD/4K",######## SPEZIAL ########
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439489&extension=ts&play_token=bHEZgePY9B
+#EXTINF:-1 tvg-name="RU: A1" group-title="RU| RUSSIAN HD/4K",RU: A1
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439488&extension=ts&play_token=aOAVFs8apY
+#EXTINF:-1 tvg-name="RU: A2" group-title="RU| RUSSIAN HD/4K",RU: A2
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439487&extension=ts&play_token=ROfk7YoiKu
+#EXTINF:-1 tvg-name="RU: AMC" group-title="RU| RUSSIAN HD/4K",RU: AMC
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439486&extension=ts&play_token=K4Nvyn3o3L
+#EXTINF:-1 tvg-name="RU: AMEDIA" group-title="RU| RUSSIAN HD/4K",RU: AMEDIA
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439485&extension=ts&play_token=vFvPyVY9Bx
+#EXTINF:-1 tvg-name="RU: AMEDIA 2" group-title="RU| RUSSIAN HD/4K",RU: AMEDIA 2
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439484&extension=ts&play_token=iTgjWH0h3S
+#EXTINF:-1 tvg-name="RU: AMEDIA HIT" group-title="RU| RUSSIAN HD/4K",RU: AMEDIA HIT
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439483&extension=ts&play_token=7H9xXEjpdr
+#EXTINF:-1 tvg-name="RU: AMEDIA PREMIUM" group-title="RU| RUSSIAN HD/4K",RU: AMEDIA PREMIUM
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439482&extension=ts&play_token=fvAbcyg0iE
+#EXTINF:-1 tvg-name="RU: AMEDIA PREMIUM HD" group-title="RU| RUSSIAN HD/4K",RU: AMEDIA PREMIUM HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439481&extension=ts&play_token=Ur1vNMEQLZ
+#EXTINF:-1 tvg-name="RU: ANIMAL PLANET HD" group-title="RU| RUSSIAN HD/4K",RU: ANIMAL PLANET HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439480&extension=ts&play_token=peu0nPFqK2
+#EXTINF:-1 tvg-name="RU: ANIMAL FAMILY HD" group-title="RU| RUSSIAN HD/4K",RU: ANIMAL FAMILY HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439479&extension=ts&play_token=tXxAbM4eiF
+#EXTINF:-1 tvg-name="RU: ANIMAL PLANET" group-title="RU| RUSSIAN HD/4K",RU: ANIMAL PLANET
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439478&extension=ts&play_token=1uM9713hIF
+#EXTINF:-1 tvg-name="RU: BOLLYWOOD" group-title="RU| RUSSIAN HD/4K",RU: BOLLYWOOD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439477&extension=ts&play_token=YfOIV1xzgv
+#EXTINF:-1 tvg-name="RU: BOLLYWOOD HD" group-title="RU| RUSSIAN HD/4K",RU: BOLLYWOOD HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439476&extension=ts&play_token=WUQ4p8dxvT
+#EXTINF:-1 tvg-name="RU: CBS REALITY" group-title="RU| RUSSIAN HD/4K",RU: CBS REALITY
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439475&extension=ts&play_token=O7TEsLU5fQ
+#EXTINF:-1 tvg-name="RU: DAVINCI LEARNING" group-title="RU| RUSSIAN HD/4K",RU: DAVINCI LEARNING
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439474&extension=ts&play_token=C3RCTb0dgY
+#EXTINF:-1 tvg-name="RU: DIKAYA OKHOTA HD" group-title="RU| RUSSIAN HD/4K",RU: DIKAYA OKHOTA HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439473&extension=ts&play_token=UESAvCXBGp
+#EXTINF:-1 tvg-name="RU: DIKAYA RYBALKA HD" group-title="RU| RUSSIAN HD/4K",RU: DIKAYA RYBALKA HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439472&extension=ts&play_token=FAiXz2tULH
+#EXTINF:-1 tvg-name="RU: DISCOVERY CHANNEL" group-title="RU| RUSSIAN HD/4K",RU: DISCOVERY CHANNEL
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439471&extension=ts&play_token=QBNNbHVUGC
+#EXTINF:-1 tvg-name="RU: DISCOVERY CHANNEL HD" group-title="RU| RUSSIAN HD/4K",RU: DISCOVERY CHANNEL HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439470&extension=ts&play_token=Em3rU4rPaZ
+#EXTINF:-1 tvg-name="RU: DISCOVERY SCIENCE" group-title="RU| RUSSIAN HD/4K",RU: DISCOVERY SCIENCE
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439469&extension=ts&play_token=9wHurNRdun
+#EXTINF:-1 tvg-name="RU: DISCOVERY SCIENCE HD" group-title="RU| RUSSIAN HD/4K",RU: DISCOVERY SCIENCE HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439468&extension=ts&play_token=ax9n9RKU60
+#EXTINF:-1 tvg-name="RU: DISCOVERY SHOWCASE HD" group-title="RU| RUSSIAN HD/4K",RU: DISCOVERY SHOWCASE HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439467&extension=ts&play_token=pZfK0chrbZ
+#EXTINF:-1 tvg-name="RU: DISCOVERY DTX" group-title="RU| RUSSIAN HD/4K",RU: DISCOVERY DTX
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439466&extension=ts&play_token=tEzDy4myXA
+#EXTINF:-1 tvg-name="RU: DISCOVERY ID XTRA HD" group-title="RU| RUSSIAN HD/4K",RU: DISCOVERY ID XTRA HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439465&extension=ts&play_token=pF0NL3gCjV
+#EXTINF:-1 tvg-name="RU: EDA HD" group-title="RU| RUSSIAN HD/4K",RU: EDA HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439464&extension=ts&play_token=8ZB6SDSHaa
+#EXTINF:-1 tvg-name="RU: EGOIST TV" group-title="RU| RUSSIAN HD/4K",RU: EGOIST TV
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439463&extension=ts&play_token=LaUqzRUO6Q
+#EXTINF:-1 tvg-name="RU: E TV" group-title="RU| RUSSIAN HD/4K",RU: E TV
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439462&extension=ts&play_token=9yKmDPB8UC
+#EXTINF:-1 tvg-name="RU: EUREKA HD" group-title="RU| RUSSIAN HD/4K",RU: EUREKA HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439461&extension=ts&play_token=owmTeYDUuR
+#EXTINF:-1 tvg-name="RU: FASHION TELEVISION" group-title="RU| RUSSIAN HD/4K",RU: FASHION TELEVISION
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439460&extension=ts&play_token=pyjoB6hu6R
+#EXTINF:-1 tvg-name="RU: FINE LIVING" group-title="RU| RUSSIAN HD/4K",RU: FINE LIVING
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439459&extension=ts&play_token=ityji2T3Pw
+#EXTINF:-1 tvg-name="RU: FOX" group-title="RU| RUSSIAN HD/4K",RU: FOX
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439458&extension=ts&play_token=9NREbDzt7Z
+#EXTINF:-1 tvg-name="RU: FOX HD" group-title="RU| RUSSIAN HD/4K",RU: FOX HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439457&extension=ts&play_token=e7H56EEk7m
+#EXTINF:-1 tvg-name="RU: FOX LIFE" group-title="RU| RUSSIAN HD/4K",RU: FOX LIFE
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439456&extension=ts&play_token=beYsUczhnM
+#EXTINF:-1 tvg-name="RU: GLAZAMI TURISTA" group-title="RU| RUSSIAN HD/4K",RU: GLAZAMI TURISTA
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439455&extension=ts&play_token=WH73C3jFAE
+#EXTINF:-1 tvg-name="RU: GLAZELLA HD" group-title="RU| RUSSIAN HD/4K",RU: GLAZELLA HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439454&extension=ts&play_token=aXvs3wXycX
+#EXTINF:-1 tvg-name="RU: HISTORY" group-title="RU| RUSSIAN HD/4K",RU: HISTORY
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439453&extension=ts&play_token=mJEvEjeyuR
+#EXTINF:-1 tvg-name="RU: HISTORY HD" group-title="RU| RUSSIAN HD/4K",RU: HISTORY HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439452&extension=ts&play_token=nOWnU2tNzF
+#EXTINF:-1 tvg-name="RU: HOLLYWOOD" group-title="RU| RUSSIAN HD/4K",RU: HOLLYWOOD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439451&extension=ts&play_token=DG6x6Qjocu
+#EXTINF:-1 tvg-name="RU: ICONCERTS" group-title="RU| RUSSIAN HD/4K",RU: ICONCERTS
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439450&extension=ts&play_token=4sKbTcm7K1
+#EXTINF:-1 tvg-name="RU: ID INVESTIGATION DISCOVERY" group-title="RU| RUSSIAN HD/4K",RU: ID INVESTIGATION DISCOVERY
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439449&extension=ts&play_token=rR6Yx7iQjI
+#EXTINF:-1 tvg-name="RU: ID XTRA" group-title="RU| RUSSIAN HD/4K",RU: ID XTRA
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439448&extension=ts&play_token=84DBWQw7JM
+#EXTINF:-1 tvg-name="RU: ILLUZION PLUS" group-title="RU| RUSSIAN HD/4K",RU: ILLUZION PLUS
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439447&extension=ts&play_token=v0itBhBwMB
+#EXTINF:-1 tvg-name="RU: NOSTALGIJA" group-title="RU| RUSSIAN HD/4K",RU: NOSTALGIJA
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439446&extension=ts&play_token=KEWpHUEnRC
+#EXTINF:-1 tvg-name="RU: ISTORIYA" group-title="RU| RUSSIAN HD/4K",RU: ISTORIYA
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439445&extension=ts&play_token=O1tKEmsIwT
+#EXTINF:-1 tvg-name="RU: JIVI TV" group-title="RU| RUSSIAN HD/4K",RU: JIVI TV
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439444&extension=ts&play_token=sKaFyNeNQa
+#EXTINF:-1 tvg-name="RU: KRIK TV" group-title="RU| RUSSIAN HD/4K",RU: KRIK TV
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439443&extension=ts&play_token=xsdeOSIIDm
+#EXTINF:-1 tvg-name="RU: KUCHNIA TV" group-title="RU| RUSSIAN HD/4K",RU: KUCHNIA TV
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439442&extension=ts&play_token=yINtRTMbk4
+#EXTINF:-1 tvg-name="RU: KUHNYA TV" group-title="RU| RUSSIAN HD/4K",RU: KUHNYA TV
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439441&extension=ts&play_token=jO4WsjX4ZC
+#EXTINF:-1 tvg-name="RU: MEZZO" group-title="RU| RUSSIAN HD/4K",RU: MEZZO
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439440&extension=ts&play_token=qL1VcT5SKb
+#EXTINF:-1 tvg-name="RU: NAT GEO WILD" group-title="RU| RUSSIAN HD/4K",RU: NAT GEO WILD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439439&extension=ts&play_token=TFHzdXxS2J
+#EXTINF:-1 tvg-name="RU: NAT GEO WILD HD" group-title="RU| RUSSIAN HD/4K",RU: NAT GEO WILD HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439438&extension=ts&play_token=z8SbZzCw2U
+#EXTINF:-1 tvg-name="RU: NATIONAL GEOGRAPHIC" group-title="RU| RUSSIAN HD/4K",RU: NATIONAL GEOGRAPHIC
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439437&extension=ts&play_token=se38VVeM4U
+#EXTINF:-1 tvg-name="RU: NATIONAL GEOGRAPHIC HD" group-title="RU| RUSSIAN HD/4K",RU: NATIONAL GEOGRAPHIC HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439436&extension=ts&play_token=Ki3G9u3sRB
+#EXTINF:-1 tvg-name="RU: NAUKA 2 0" group-title="RU| RUSSIAN HD/4K",RU: NAUKA 2 0
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439435&extension=ts&play_token=paUje1pQtU
+#EXTINF:-1 tvg-name="RU: NST TV" group-title="RU| RUSSIAN HD/4K",RU: NST TV
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439434&extension=ts&play_token=fuoQOao0sY
+#EXTINF:-1 tvg-name="RU: OHOTA I RYBALKA" group-title="RU| RUSSIAN HD/4K",RU: OHOTA I RYBALKA
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439433&extension=ts&play_token=0YHXd26Ze8
+#EXTINF:-1 tvg-name="RU: OHOTNIK I RYBOLOV HD" group-title="RU| RUSSIAN HD/4K",RU: OHOTNIK I RYBOLOV HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439432&extension=ts&play_token=oiFLG11G8h
+#EXTINF:-1 tvg-name="RU: ORUZHIE" group-title="RU| RUSSIAN HD/4K",RU: ORUZHIE
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439431&extension=ts&play_token=PmNPIOj5eg
+#EXTINF:-1 tvg-name="RU: PARAMOUNT CHANNEL" group-title="RU| RUSSIAN HD/4K",RU: PARAMOUNT CHANNEL
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439430&extension=ts&play_token=UMcesSnpwp
+#EXTINF:-1 tvg-name="RU: PARAMOUNT COMEDY" group-title="RU| RUSSIAN HD/4K",RU: PARAMOUNT COMEDY
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439429&extension=ts&play_token=uAc5zx3y1N
+#EXTINF:-1 tvg-name="RU: PRIKLYUCHENIYA HD" group-title="RU| RUSSIAN HD/4K",RU: PRIKLYUCHENIYA HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439428&extension=ts&play_token=r89twxaAMU
+#EXTINF:-1 tvg-name="RU: PRODVIJENIE" group-title="RU| RUSSIAN HD/4K",RU: PRODVIJENIE
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439427&extension=ts&play_token=hQuJtKPTUo
+#EXTINF:-1 tvg-name="RU: PSIHOLOGIA 21" group-title="RU| RUSSIAN HD/4K",RU: PSIHOLOGIA 21
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439426&extension=ts&play_token=JM66sMljdW
+#EXTINF:-1 tvg-name="RU: PYATIT KANAL" group-title="RU| RUSSIAN HD/4K",RU: PYATIT KANAL
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439425&extension=ts&play_token=4viYzI2paO
+#EXTINF:-1 tvg-name="RU: TELEKAFE" group-title="RU| RUSSIAN HD/4K",RU: TELEKAFE
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439424&extension=ts&play_token=nr9hxhgYqT
+#EXTINF:-1 tvg-name="RU: STYLE" group-title="RU| RUSSIAN HD/4K",RU: STYLE
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439423&extension=ts&play_token=8iVPG23GBt
+#EXTINF:-1 tvg-name="RU: RUSSKIJILLUZION" group-title="RU| RUSSIAN HD/4K",RU: RUSSKIJILLUZION
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439422&extension=ts&play_token=oRknxV11e5
+#EXTINF:-1 tvg-name="RU: SET HD" group-title="RU| RUSSIAN HD/4K",RU: SET HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439421&extension=ts&play_token=wwqCQCD6Go
+#EXTINF:-1 tvg-name="RU: SHOKIRUYUSCHEE" group-title="RU| RUSSIAN HD/4K",RU: SHOKIRUYUSCHEE
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439420&extension=ts&play_token=nhnyRnroQS
+#EXTINF:-1 tvg-name="RU: SHOT TV" group-title="RU| RUSSIAN HD/4K",RU: SHOT TV
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439419&extension=ts&play_token=2oNSW6MPC1
+#EXTINF:-1 tvg-name="RU: SONY CHANNEL" group-title="RU| RUSSIAN HD/4K",RU: SONY CHANNEL
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439418&extension=ts&play_token=gC72hkfS28
+#EXTINF:-1 tvg-name="RU: SONY SCI-FI" group-title="RU| RUSSIAN HD/4K",RU: SONY SCI-FI
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439417&extension=ts&play_token=gdUNtRZhes
+#EXTINF:-1 tvg-name="RU: SONY TB" group-title="RU| RUSSIAN HD/4K",RU: SONY TB
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439416&extension=ts&play_token=Cc1ISA4H2X
+#EXTINF:-1 tvg-name="RU: SONY TURBO" group-title="RU| RUSSIAN HD/4K",RU: SONY TURBO
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439415&extension=ts&play_token=yhJriiSerW
+#EXTINF:-1 tvg-name="RU: SOVERSHENNO SEKRETNO" group-title="RU| RUSSIAN HD/4K",RU: SOVERSHENNO SEKRETNO
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439414&extension=ts&play_token=9M2I2EpbIM
+#EXTINF:-1 tvg-name="RU: TIJI" group-title="RU| RUSSIAN HD/4K",RU: TIJI
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439413&extension=ts&play_token=0LXQ69idFJ
+#EXTINF:-1 tvg-name="RU: TLC" group-title="RU| RUSSIAN HD/4K",RU: TLC
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439412&extension=ts&play_token=WN6sT6W6a9
+#EXTINF:-1 tvg-name="RU: TLC HD" group-title="RU| RUSSIAN HD/4K",RU: TLC HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439411&extension=ts&play_token=gKN4uyYnOP
+#EXTINF:-1 tvg-name="RU: TLUM HD" group-title="RU| RUSSIAN HD/4K",RU: TLUM HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439410&extension=ts&play_token=Sdp3KDDfoh
+#EXTINF:-1 tvg-name="RU: TRAVEL" group-title="RU| RUSSIAN HD/4K",RU: TRAVEL
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439409&extension=ts&play_token=dsrG7nyCy8
+#EXTINF:-1 tvg-name="RU: TRAVEL+ADVENTURE HD" group-title="RU| RUSSIAN HD/4K",RU: TRAVEL+ADVENTURE HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439408&extension=ts&play_token=v4xajVaf20
+#EXTINF:-1 tvg-name="RU: TRAVEL ADVENTURE" group-title="RU| RUSSIAN HD/4K",RU: TRAVEL ADVENTURE
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439407&extension=ts&play_token=mS8Y126Dmg
+#EXTINF:-1 tvg-name="RU: TRAVEL HD" group-title="RU| RUSSIAN HD/4K",RU: TRAVEL HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439406&extension=ts&play_token=OjM9lwJ0Ut
+#EXTINF:-1 tvg-name="RU: TV 3" group-title="RU| RUSSIAN HD/4K",RU: TV 3
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439405&extension=ts&play_token=ci67EKiYUv
+#EXTINF:-1 tvg-name="RU: TV1000" group-title="RU| RUSSIAN HD/4K",RU: TV1000
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439404&extension=ts&play_token=og747rSE0G
+#EXTINF:-1 tvg-name="RU: TV1000 ACTION" group-title="RU| RUSSIAN HD/4K",RU: TV1000 ACTION
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439403&extension=ts&play_token=eymPIljip1
+#EXTINF:-1 tvg-name="RU: TV1000 COMEDY HD" group-title="RU| RUSSIAN HD/4K",RU: TV1000 COMEDY HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439402&extension=ts&play_token=1ZHdEgm1DB
+#EXTINF:-1 tvg-name="RU: TV1000 MEGAHIT HD" group-title="RU| RUSSIAN HD/4K",RU: TV1000 MEGAHIT HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439401&extension=ts&play_token=8rQR80jpcR
+#EXTINF:-1 tvg-name="RU: TV1000 PREMIUM HD" group-title="RU| RUSSIAN HD/4K",RU: TV1000 PREMIUM HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439400&extension=ts&play_token=JO5L1BbGdp
+#EXTINF:-1 tvg-name="RU: TV1000 RUSSKOJE KINO" group-title="RU| RUSSIAN HD/4K",RU: TV1000 RUSSKOJE KINO
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439399&extension=ts&play_token=mQRtGIkuVo
+#EXTINF:-1 tvg-name="RU: WORLD FASHION" group-title="RU| RUSSIAN HD/4K",RU: WORLD FASHION
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439398&extension=ts&play_token=rW6HPuAsoe
+#EXTINF:-1 tvg-name="RU: ZAGORODNAYA ZHIZN" group-title="RU| RUSSIAN HD/4K",RU: ZAGORODNAYA ZHIZN
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439397&extension=ts&play_token=uzOXkfxpHc
+#EXTINF:-1 tvg-name="RU: ZAGORODNOJA JIZN" group-title="RU| RUSSIAN HD/4K",RU: ZAGORODNOJA JIZN
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439396&extension=ts&play_token=RyuFliO1HD
+#EXTINF:-1 tvg-name="RU: ZAGORODNIY HD INT" group-title="RU| RUSSIAN HD/4K",RU: ZAGORODNIY HD INT
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439395&extension=ts&play_token=KsGiCDvkpt
+#EXTINF:-1 tvg-name="RU: ZAGORODNIY" group-title="RU| RUSSIAN HD/4K",RU: ZAGORODNIY
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439394&extension=ts&play_token=RDQwkbmBNg
+#EXTINF:-1 tvg-name="RU: VIASAT EXPLORE HD" group-title="RU| RUSSIAN HD/4K",RU: VIASAT EXPLORE HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439393&extension=ts&play_token=Y85OrKtbok
+#EXTINF:-1 tvg-name="RU: VIASAT EXPLORE" group-title="RU| RUSSIAN HD/4K",RU: VIASAT EXPLORE
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439392&extension=ts&play_token=Sk7YDmKO3C
+#EXTINF:-1 tvg-name="RU: VIASAT HISTORY" group-title="RU| RUSSIAN HD/4K",RU: VIASAT HISTORY
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439391&extension=ts&play_token=IBlt9mJztF
+#EXTINF:-1 tvg-name="RU: VIASAT HISTORY HD" group-title="RU| RUSSIAN HD/4K",RU: VIASAT HISTORY HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439390&extension=ts&play_token=0i2b2K7qpw
+#EXTINF:-1 tvg-name="RU: VIASAT NATURE" group-title="RU| RUSSIAN HD/4K",RU: VIASAT NATURE
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439389&extension=ts&play_token=CN2oa1X8nH
+#EXTINF:-1 tvg-name="RU: VIASAT SPORT" group-title="RU| RUSSIAN HD/4K",RU: VIASAT SPORT
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439388&extension=ts&play_token=E0cJTa93fn
+#EXTINF:-1 tvg-name="RU: VIASAT SPORT HD" group-title="RU| RUSSIAN HD/4K",RU: VIASAT SPORT HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439387&extension=ts&play_token=uMaLyYzJFH
+#EXTINF:-1 tvg-name="RU: VIASAT TV1000 RUSSKOEKINO" group-title="RU| RUSSIAN HD/4K",RU: VIASAT TV1000 RUSSKOEKINO
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439386&extension=ts&play_token=UvyVAMvNnC
+#EXTINF:-1 tvg-name="RU: VIP COMEDY HD" group-title="RU| RUSSIAN HD/4K",RU: VIP COMEDY HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439385&extension=ts&play_token=VRxb4rOtRp
+#EXTINF:-1 tvg-name="RU: VIP MEGAHIT HD" group-title="RU| RUSSIAN HD/4K",RU: VIP MEGAHIT HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439384&extension=ts&play_token=tN0dklSwSy
+#EXTINF:-1 tvg-name="RU: VIP PREMIERE" group-title="RU| RUSSIAN HD/4K",RU: VIP PREMIERE
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439383&extension=ts&play_token=6djVuSYEqE
+#EXTINF:-1 tvg-name="RU: VIP SERIAL" group-title="RU| RUSSIAN HD/4K",RU: VIP SERIAL
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439382&extension=ts&play_token=7emyAzQ7G0
+#EXTINF:-1 tvg-name="RU: ZOOPARK" group-title="RU| RUSSIAN HD/4K",RU: ZOOPARK
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439381&extension=ts&play_token=yTGvg8RBUX
+#EXTINF:-1 tvg-name="RU: ZEE TV" group-title="RU| RUSSIAN HD/4K",RU: ZEE TV
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439380&extension=ts&play_token=bPfBEZEkWp
+#EXTINF:-1 tvg-name="RU: TV XXI" group-title="RU| RUSSIAN HD/4K",RU: TV XXI
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439379&extension=ts&play_token=7pL1VblrCO
+#EXTINF:-1 tvg-name="RU: U TV" group-title="RU| RUSSIAN HD/4K",RU: U TV
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439378&extension=ts&play_token=QZbBCU54E1
+#EXTINF:-1 tvg-name="RU: U" group-title="RU| RUSSIAN HD/4K",RU: U
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439377&extension=ts&play_token=mXxmZYmS3G
+#EXTINF:-1 tvg-name="RU: 24 TECHNO" group-title="RU| RUSSIAN HD/4K",RU: 24 TECHNO
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439376&extension=ts&play_token=tpK9pr7BtN
+#EXTINF:-1 tvg-name="RU: 5 KANAL RU" group-title="RU| RUSSIAN HD/4K",RU: 5 KANAL RU
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439375&extension=ts&play_token=E7e5yxoNvs
+#EXTINF:-1 tvg-name="RU: A HOME OF HBO 2 HD" group-title="RU| RUSSIAN HD/4K",RU: A HOME OF HBO 2 HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439374&extension=ts&play_token=0DhNO67xna
+#EXTINF:-1 tvg-name="RU: AMEDIA HOME OF HBO 1 HD" group-title="RU| RUSSIAN HD/4K",RU: AMEDIA HOME OF HBO 1 HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439373&extension=ts&play_token=aAF9cQ5z5O
+#EXTINF:-1 tvg-name="RU: BOBER TV" group-title="RU| RUSSIAN HD/4K",RU: BOBER TV
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439372&extension=ts&play_token=SC4BG6FOhi
+#EXTINF:-1 tvg-name="RU: BOKS TV" group-title="RU| RUSSIAN HD/4K",RU: BOKS TV
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439371&extension=ts&play_token=la8sKdZhoP
+#EXTINF:-1 tvg-name="RU: DOCTOR HD" group-title="RU| RUSSIAN HD/4K",RU: DOCTOR HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439370&extension=ts&play_token=yksePbVMmA
+#EXTINF:-1 tvg-name="RU: DOJD HD" group-title="RU| RUSSIAN HD/4K",RU: DOJD HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439369&extension=ts&play_token=FLoo4EB4QJ
+#EXTINF:-1 tvg-name="RU: DOM KINO PREMIUM HD" group-title="RU| RUSSIAN HD/4K",RU: DOM KINO PREMIUM HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439368&extension=ts&play_token=pEf7I5Odlo
+#EXTINF:-1 tvg-name="RU: DOMASHNIE JIVOTNIE" group-title="RU| RUSSIAN HD/4K",RU: DOMASHNIE JIVOTNIE
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439367&extension=ts&play_token=lzXZsgfY0Z
+#EXTINF:-1 tvg-name="RU: DOMASHNIY +7" group-title="RU| RUSSIAN HD/4K",RU: DOMASHNIY +7
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439366&extension=ts&play_token=rKzEnz9HGs
+#EXTINF:-1 tvg-name="RU: FENIX+ KINO" group-title="RU| RUSSIAN HD/4K",RU: FENIX+ KINO
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439365&extension=ts&play_token=didWePYqQy
+#EXTINF:-1 tvg-name="RU: FOOD NETWORK" group-title="RU| RUSSIAN HD/4K",RU: FOOD NETWORK
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439364&extension=ts&play_token=yVSFU2DQi8
+#EXTINF:-1 tvg-name="RU: ICONCERTS" group-title="RU| RUSSIAN HD/4K",RU: ICONCERTS
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439363&extension=ts&play_token=qTMOTzsmhQ
+#EXTINF:-1 tvg-name="RU: KINOSERIJA HD" group-title="RU| RUSSIAN HD/4K",RU: KINOSERIJA HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439362&extension=ts&play_token=vOfHihjVwC
+#EXTINF:-1 tvg-name="RU: KTNO TV" group-title="RU| RUSSIAN HD/4K",RU: KTNO TV
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439361&extension=ts&play_token=aMAMUBQmjY
+#EXTINF:-1 tvg-name="RU: KTO EST KTO" group-title="RU| RUSSIAN HD/4K",RU: KTO EST KTO
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439360&extension=ts&play_token=0Ofg6U9WSU
+#EXTINF:-1 tvg-name="RU: LUXURI WORLD" group-title="RU| RUSSIAN HD/4K",RU: LUXURI WORLD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439359&extension=ts&play_token=aOE1Q2VD3y
+#EXTINF:-1 tvg-name="RU: M1 GLOBAL" group-title="RU| RUSSIAN HD/4K",RU: M1 GLOBAL
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439358&extension=ts&play_token=1oNihsoQHK
+#EXTINF:-1 tvg-name="RU: MIR SERIALA" group-title="RU| RUSSIAN HD/4K",RU: MIR SERIALA
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439357&extension=ts&play_token=tC2M2K6bfO
+#EXTINF:-1 tvg-name="RU: MULYTIMANIYA" group-title="RU| RUSSIAN HD/4K",RU: MULYTIMANIYA
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439356&extension=ts&play_token=Kyilcaztre
+#EXTINF:-1 tvg-name="RU: NASHE RODNOE KINO" group-title="RU| RUSSIAN HD/4K",RU: NASHE RODNOE KINO
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439355&extension=ts&play_token=XsLUCoCp8F
+#EXTINF:-1 tvg-name="RU: PARAMOUNT COMEDY HD" group-title="RU| RUSSIAN HD/4K",RU: PARAMOUNT COMEDY HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439354&extension=ts&play_token=J71Fxm0HHY
+#EXTINF:-1 tvg-name="RU: PERVIY AVTOMOBILNIY HD" group-title="RU| RUSSIAN HD/4K",RU: PERVIY AVTOMOBILNIY HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439353&extension=ts&play_token=fwxx3Clu6u
+#EXTINF:-1 tvg-name="RU: PERVIY KANAL EUROPE" group-title="RU| RUSSIAN HD/4K",RU: PERVIY KANAL EUROPE
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439352&extension=ts&play_token=f4r8IefMPQ
+#EXTINF:-1 tvg-name="RU: PERVIY OBRAZOVATELNIY" group-title="RU| RUSSIAN HD/4K",RU: PERVIY OBRAZOVATELNIY
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439351&extension=ts&play_token=qdDuLKsADn
+#EXTINF:-1 tvg-name="RU: RETRO TV" group-title="RU| RUSSIAN HD/4K",RU: RETRO TV
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439350&extension=ts&play_token=7FbHpsWaTc
+#EXTINF:-1 tvg-name="RU: RTVI" group-title="RU| RUSSIAN HD/4K",RU: RTVI
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439349&extension=ts&play_token=feSqanYcaP
+#EXTINF:-1 tvg-name="RU: RUSSKIJ BESTSELLER" group-title="RU| RUSSIAN HD/4K",RU: RUSSKIJ BESTSELLER
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439348&extension=ts&play_token=e9YglwXbRJ
+#EXTINF:-1 tvg-name="RU: STS BALTIC" group-title="RU| RUSSIAN HD/4K",RU: STS BALTIC
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439347&extension=ts&play_token=UipP6ltwDZ
+#EXTINF:-1 tvg-name="RU: SUPER" group-title="RU| RUSSIAN HD/4K",RU: SUPER
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439346&extension=ts&play_token=SAlEcOVT4i
+#EXTINF:-1 tvg-name="RU: USADBA TV" group-title="RU| RUSSIAN HD/4K",RU: USADBA TV
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439345&extension=ts&play_token=R0TVCWK6xw
+#EXTINF:-1 tvg-name="RU: VOPROSI I OTVETI" group-title="RU| RUSSIAN HD/4K",RU: VOPROSI I OTVETI
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439344&extension=ts&play_token=PrhR04W9SD
+#EXTINF:-1 tvg-name="RU: H 2 HD" group-title="RU| RUSSIAN HD/4K",RU: H 2 HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439656&extension=ts&play_token=dUOzXkQTbM
+#EXTINF:-1 tvg-name="RU: RUSSIA MATCH PREMIER HD" group-title="RU| RUSSIAN HD/4K",RU: RUSSIA MATCH PREMIER HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439654&extension=ts&play_token=cy36jWlXnI
+#EXTINF:-1 tvg-name="RU: PERVIY KANAL HD" group-title="RU| RUSSIAN HD/4K",RU: PERVIY KANAL HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439653&extension=ts&play_token=r6TMba271G
+#EXTINF:-1 tvg-name="RU: PERVIY KANAL" group-title="RU| RUSSIAN HD/4K",RU: PERVIY KANAL
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439652&extension=ts&play_token=6MLRNTNCxU
+#EXTINF:-1 tvg-name="RU: CHANNEL ONE" group-title="RU| RUSSIAN HD/4K",RU: CHANNEL ONE
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439651&extension=ts&play_token=cFbKEvlTNW
+#EXTINF:-1 tvg-name="RU: EURONEWS" group-title="RU| RUSSIAN HD/4K",RU: EURONEWS
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439650&extension=ts&play_token=7rfev7zzlb
+#EXTINF:-1 tvg-name="RU: MOSKVA 24" group-title="RU| RUSSIAN HD/4K",RU: MOSKVA 24
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439649&extension=ts&play_token=CH4zxU2peJ
+#EXTINF:-1 tvg-name="RU: SAINT PETERBURG" group-title="RU| RUSSIAN HD/4K",RU: SAINT PETERBURG
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439646&extension=ts&play_token=69ap9cPUly
+#EXTINF:-1 tvg-name="RU: CURRENTTIME HD" group-title="RU| RUSSIAN HD/4K",RU: CURRENTTIME HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439645&extension=ts&play_token=GM4BWM0NCH
+#EXTINF:-1 tvg-name="RU: ROSSIYA 1 HD" group-title="RU| RUSSIAN HD/4K",RU: ROSSIYA 1 HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439644&extension=ts&play_token=C9vNT7FCRZ
+#EXTINF:-1 tvg-name="RU: ROSSIYA 1" group-title="RU| RUSSIAN HD/4K",RU: ROSSIYA 1
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439643&extension=ts&play_token=ysyDrbDLEO
+#EXTINF:-1 tvg-name="RU: RTR PLANETA" group-title="RU| RUSSIAN HD/4K",RU: RTR PLANETA
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439642&extension=ts&play_token=3VtU206EbK
+#EXTINF:-1 tvg-name="RU: ROSSIYA-24" group-title="RU| RUSSIAN HD/4K",RU: ROSSIYA-24
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439641&extension=ts&play_token=nf0zHoPM7F
+#EXTINF:-1 tvg-name="RU: RUSSIA K" group-title="RU| RUSSIAN HD/4K",RU: RUSSIA K
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439640&extension=ts&play_token=l6aem9nUE7
+#EXTINF:-1 tvg-name="RU: VREMYA" group-title="RU| RUSSIAN HD/4K",RU: VREMYA
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439639&extension=ts&play_token=Eob3C64MjT
+#EXTINF:-1 tvg-name="RU: 365 DNEI" group-title="RU| RUSSIAN HD/4K",RU: 365 DNEI
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439638&extension=ts&play_token=7o1GgGBcFs
+#EXTINF:-1 tvg-name="RU: RBK TV" group-title="RU| RUSSIAN HD/4K",RU: RBK TV
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439637&extension=ts&play_token=TyYOeYoP4P
+#EXTINF:-1 tvg-name="RU: RTG HD" group-title="RU| RUSSIAN HD/4K",RU: RTG HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439636&extension=ts&play_token=qzDe2CkDe8
+#EXTINF:-1 tvg-name="RU: RTG TV" group-title="RU| RUSSIAN HD/4K",RU: RTG TV
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439635&extension=ts&play_token=ZkAsPBdZAm
+#EXTINF:-1 tvg-name="RU: RT HD" group-title="RU| RUSSIAN HD/4K",RU: RT HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439634&extension=ts&play_token=TGFJ3DhNKc
+#EXTINF:-1 tvg-name="RU: RT DOC" group-title="RU| RUSSIAN HD/4K",RU: RT DOC
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439633&extension=ts&play_token=iqnGn0ZEGN
+#EXTINF:-1 tvg-name="RU: NTV HD" group-title="RU| RUSSIAN HD/4K",RU: NTV HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439632&extension=ts&play_token=NCJswuSEVo
+#EXTINF:-1 tvg-name="RU: NTV MIR" group-title="RU| RUSSIAN HD/4K",RU: NTV MIR
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439631&extension=ts&play_token=F4y1nPgTOw
+#EXTINF:-1 tvg-name="RU: HTB" group-title="RU| RUSSIAN HD/4K",RU: HTB
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439630&extension=ts&play_token=8n23mecnh5
+#EXTINF:-1 tvg-name="RU: REN TV" group-title="RU| RUSSIAN HD/4K",RU: REN TV
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439629&extension=ts&play_token=G4U3aAZETk
+#EXTINF:-1 tvg-name="RU: PEH TB" group-title="RU| RUSSIAN HD/4K",RU: PEH TB
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439628&extension=ts&play_token=LJqFwNmt6s
+#EXTINF:-1 tvg-name="RU: TNT +7" group-title="RU| RUSSIAN HD/4K",RU: TNT +7
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439627&extension=ts&play_token=G3QIjbNDmt
+#EXTINF:-1 tvg-name="RU: TNT4" group-title="RU| RUSSIAN HD/4K",RU: TNT4
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439626&extension=ts&play_token=EHOETaRHYq
+#EXTINF:-1 tvg-name="RU: TNT" group-title="RU| RUSSIAN HD/4K",RU: TNT
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439625&extension=ts&play_token=gCFzKxqvRF
+#EXTINF:-1 tvg-name="RU: TNT HD" group-title="RU| RUSSIAN HD/4K",RU: TNT HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439624&extension=ts&play_token=RP44h5Sa9t
+#EXTINF:-1 tvg-name="RU: THT" group-title="RU| RUSSIAN HD/4K",RU: THT
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439623&extension=ts&play_token=EnnwriGkVn
+#EXTINF:-1 tvg-name="RU: THT4" group-title="RU| RUSSIAN HD/4K",RU: THT4
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439622&extension=ts&play_token=pNsvv79JyE
+#EXTINF:-1 tvg-name="RU: DOZD" group-title="RU| RUSSIAN HD/4K",RU: DOZD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439621&extension=ts&play_token=JZIEWAqKVs
+#EXTINF:-1 tvg-name="RU: TVCI" group-title="RU| RUSSIAN HD/4K",RU: TVCI
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439620&extension=ts&play_token=MAeA23NhCh
+#EXTINF:-1 tvg-name="RU: STS" group-title="RU| RUSSIAN HD/4K",RU: STS
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439619&extension=ts&play_token=GDzJ0JK923
+#EXTINF:-1 tvg-name="RU: STS KIDS" group-title="RU| RUSSIAN HD/4K",RU: STS KIDS
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439618&extension=ts&play_token=V3huaBehWm
+#EXTINF:-1 tvg-name="RU: CTC LOVE" group-title="RU| RUSSIAN HD/4K",RU: CTC LOVE
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439617&extension=ts&play_token=RwBLEUCsG2
+#EXTINF:-1 tvg-name="RU: MIR HD" group-title="RU| RUSSIAN HD/4K",RU: MIR HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439616&extension=ts&play_token=NeBgbn2q35
+#EXTINF:-1 tvg-name="RU: MIR" group-title="RU| RUSSIAN HD/4K",RU: MIR
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439615&extension=ts&play_token=85BZ0XO6Rn
+#EXTINF:-1 tvg-name="RU: MIR24" group-title="RU| RUSSIAN HD/4K",RU: MIR24
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439614&extension=ts&play_token=avuCybRqEr
+#EXTINF:-1 tvg-name="RU: PYATNITSA!" group-title="RU| RUSSIAN HD/4K",RU: PYATNITSA!
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439613&extension=ts&play_token=W74Gpd4ogl
+#EXTINF:-1 tvg-name="RU: 8KANAL RU" group-title="RU| RUSSIAN HD/4K",RU: 8KANAL RU
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439612&extension=ts&play_token=lvM0y0GyRe
+#EXTINF:-1 tvg-name="RU: SARAFAN" group-title="RU| RUSSIAN HD/4K",RU: SARAFAN
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439611&extension=ts&play_token=ctJ62cUeBG
+#EXTINF:-1 tvg-name="RU: LIFE HD" group-title="RU| RUSSIAN HD/4K",RU: LIFE HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439610&extension=ts&play_token=h6xGcI6daG
+#EXTINF:-1 tvg-name="RU: CHE" group-title="RU| RUSSIAN HD/4K",RU: CHE
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439608&extension=ts&play_token=gwv295oLRF
+#EXTINF:-1 tvg-name="RU: HIT" group-title="RU| RUSSIAN HD/4K",RU: HIT
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439607&extension=ts&play_token=3kX6DsnMGz
+#EXTINF:-1 tvg-name="RU: MAMA" group-title="RU| RUSSIAN HD/4K",RU: MAMA
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439606&extension=ts&play_token=qeNNp91lHP
+#EXTINF:-1 tvg-name="RU: KVN TV" group-title="RU| RUSSIAN HD/4K",RU: KVN TV
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439605&extension=ts&play_token=wuvPTT9Ep6
+#EXTINF:-1 tvg-name="RU: SERIAL" group-title="RU| RUSSIAN HD/4K",RU: SERIAL
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439604&extension=ts&play_token=LEEcAjsegK
+#EXTINF:-1 tvg-name="RU: KOMEDIJA TV" group-title="RU| RUSSIAN HD/4K",RU: KOMEDIJA TV
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439603&extension=ts&play_token=gQ3P4Aqcfv
+#EXTINF:-1 tvg-name="RU: NASHE LIUBIMOJE KINO" group-title="RU| RUSSIAN HD/4K",RU: NASHE LIUBIMOJE KINO
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439601&extension=ts&play_token=KUlQMWA5Bu
+#EXTINF:-1 tvg-name="RU: NASHE NOVOE KINO" group-title="RU| RUSSIAN HD/4K",RU: NASHE NOVOE KINO
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439600&extension=ts&play_token=KrXp5YTSHW
+#EXTINF:-1 tvg-name="RU: NASHE RODNOEKINO" group-title="RU| RUSSIAN HD/4K",RU: NASHE RODNOEKINO
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439599&extension=ts&play_token=s3ILFWKrW4
+#EXTINF:-1 tvg-name="RU: RTVI NASHE KINO" group-title="RU| RUSSIAN HD/4K",RU: RTVI NASHE KINO
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439597&extension=ts&play_token=qtjzKLKFWE
+#EXTINF:-1 tvg-name="RU: LUBIMOE KINO" group-title="RU| RUSSIAN HD/4K",RU: LUBIMOE KINO
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439596&extension=ts&play_token=a7JyjLvOOv
+#EXTINF:-1 tvg-name="RU: DOMASHNIY" group-title="RU| RUSSIAN HD/4K",RU: DOMASHNIY
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439595&extension=ts&play_token=vrwxidBzI3
+#EXTINF:-1 tvg-name="RU: DOM KINO" group-title="RU| RUSSIAN HD/4K",RU: DOM KINO
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439594&extension=ts&play_token=M82NQqGNGu
+#EXTINF:-1 tvg-name="RU: DOMKINO PREMIUM HD" group-title="RU| RUSSIAN HD/4K",RU: DOMKINO PREMIUM HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439593&extension=ts&play_token=nPzfzFI1Lm
+#EXTINF:-1 tvg-name="RU: DORAMA" group-title="RU| RUSSIAN HD/4K",RU: DORAMA
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439592&extension=ts&play_token=j7LXETPPK7
+#EXTINF:-1 tvg-name="RU: EVROKINO" group-title="RU| RUSSIAN HD/4K",RU: EVROKINO
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439591&extension=ts&play_token=vRMHnnGNTu
+#EXTINF:-1 tvg-name="RU: CINEMA" group-title="RU| RUSSIAN HD/4K",RU: CINEMA
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439590&extension=ts&play_token=ZmWRHkuoo1
+#EXTINF:-1 tvg-name="RU: KINOHIT" group-title="RU| RUSSIAN HD/4K",RU: KINOHIT
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439589&extension=ts&play_token=Umvbm7e5nR
+#EXTINF:-1 tvg-name="RU: KINOKOMEDIJA TV" group-title="RU| RUSSIAN HD/4K",RU: KINOKOMEDIJA TV
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439588&extension=ts&play_token=Xcmx0gKTVL
+#EXTINF:-1 tvg-name="RU: KINOMIX" group-title="RU| RUSSIAN HD/4K",RU: KINOMIX
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439587&extension=ts&play_token=2uOzkGAGYs
+#EXTINF:-1 tvg-name="RU: KINOPOKAZ 2 HD" group-title="RU| RUSSIAN HD/4K",RU: KINOPOKAZ 2 HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439586&extension=ts&play_token=5W2nTLVlot
+#EXTINF:-1 tvg-name="RU: KINOPREMIERA HD" group-title="RU| RUSSIAN HD/4K",RU: KINOPREMIERA HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439585&extension=ts&play_token=NI3yJxFIZj
+#EXTINF:-1 tvg-name="RU: KINOSERIJA" group-title="RU| RUSSIAN HD/4K",RU: KINOSERIJA
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439584&extension=ts&play_token=a9AAPCslN7
+#EXTINF:-1 tvg-name="RU: KINOSVIDANIE" group-title="RU| RUSSIAN HD/4K",RU: KINOSVIDANIE
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439583&extension=ts&play_token=JrfDr4fb5D
+#EXTINF:-1 tvg-name="RU: KINO TV" group-title="RU| RUSSIAN HD/4K",RU: KINO TV
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439582&extension=ts&play_token=8Dx5jgygjv
+#EXTINF:-1 tvg-name="RU: MUZHSKOE KINO" group-title="RU| RUSSIAN HD/4K",RU: MUZHSKOE KINO
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439581&extension=ts&play_token=juhqm3P3uK
+#EXTINF:-1 tvg-name="RU: DOCUBOX HD" group-title="RU| RUSSIAN HD/4K",RU: DOCUBOX HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439580&extension=ts&play_token=grgOb5uRMY
+#EXTINF:-1 tvg-name="RU: OSTROSYUZHETNOYE KINO HD" group-title="RU| RUSSIAN HD/4K",RU: OSTROSYUZHETNOYE KINO HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439579&extension=ts&play_token=9Hpg9frPMF
+#EXTINF:-1 tvg-name="RU: INDIJSKOE KINO" group-title="RU| RUSSIAN HD/4K",RU: INDIJSKOE KINO
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439578&extension=ts&play_token=yRRWb7y7EH
+#EXTINF:-1 tvg-name="RU: RUSSKAYA KOMEDIA" group-title="RU| RUSSIAN HD/4K",RU: RUSSKAYA KOMEDIA
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439577&extension=ts&play_token=zmfnbXN7Tw
+#EXTINF:-1 tvg-name="RU: RUSSKIY DETEKTIV" group-title="RU| RUSSIAN HD/4K",RU: RUSSKIY DETEKTIV
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439576&extension=ts&play_token=f7QulgK1cp
+#EXTINF:-1 tvg-name="RU: RUSSKIJ ROMAN" group-title="RU| RUSSIAN HD/4K",RU: RUSSKIJ ROMAN
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439575&extension=ts&play_token=CR1Tdjlrxv
+#EXTINF:-1 tvg-name="RU: FENIKS+KINO" group-title="RU| RUSSIAN HD/4K",RU: FENIKS+KINO
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439574&extension=ts&play_token=AiEJwt1YKx
+#EXTINF:-1 tvg-name="RU: STRASHNOE" group-title="RU| RUSSIAN HD/4K",RU: STRASHNOE
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439573&extension=ts&play_token=ynYuMPb4sj
+#EXTINF:-1 tvg-name="RU: MORSKOI" group-title="RU| RUSSIAN HD/4K",RU: MORSKOI
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439572&extension=ts&play_token=A61ykn0ikd
+#EXTINF:-1 tvg-name="RU: ZVEZDA" group-title="RU| RUSSIAN HD/4K",RU: ZVEZDA
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439571&extension=ts&play_token=j3JmLsycRT
+#EXTINF:-1 tvg-name="######## KIDS ########" group-title="RU| RUSSIAN HD/4K",######## KIDS ########
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439570&extension=ts&play_token=fWlHg7ZKPm
+#EXTINF:-1 tvg-name="RU: DETSKIJ" group-title="RU| RUSSIAN HD/4K",RU: DETSKIJ
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439569&extension=ts&play_token=bhvEaDhtfu
+#EXTINF:-1 tvg-name="RU: DETSKIY MIR" group-title="RU| RUSSIAN HD/4K",RU: DETSKIY MIR
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439568&extension=ts&play_token=DFJz8QZET8
+#EXTINF:-1 tvg-name="RU: KARUSEL" group-title="RU| RUSSIAN HD/4K",RU: KARUSEL
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439567&extension=ts&play_token=K94bQRfzrz
+#EXTINF:-1 tvg-name="RU: MULT" group-title="RU| RUSSIAN HD/4K",RU: MULT
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439566&extension=ts&play_token=Irlx8Ft7c4
+#EXTINF:-1 tvg-name="RU: MULTIMANIA" group-title="RU| RUSSIAN HD/4K",RU: MULTIMANIA
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439565&extension=ts&play_token=qhpNFnSibv
+#EXTINF:-1 tvg-name="RU: MULT I MUZIKA" group-title="RU| RUSSIAN HD/4K",RU: MULT I MUZIKA
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439564&extension=ts&play_token=uAUgN2ZL2C
+#EXTINF:-1 tvg-name="RU: GOSTIAH U SKAZKI" group-title="RU| RUSSIAN HD/4K",RU: GOSTIAH U SKAZKI
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439563&extension=ts&play_token=i5MR0v0KIq
+#EXTINF:-1 tvg-name="RU: KAPITAN FANTASTIKA" group-title="RU| RUSSIAN HD/4K",RU: KAPITAN FANTASTIKA
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439562&extension=ts&play_token=zSnxgGsEi8
+#EXTINF:-1 tvg-name="RU: NICKELODEON" group-title="RU| RUSSIAN HD/4K",RU: NICKELODEON
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439561&extension=ts&play_token=SiBFNmgyr7
+#EXTINF:-1 tvg-name="RU: NICKELODEON HD" group-title="RU| RUSSIAN HD/4K",RU: NICKELODEON HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439560&extension=ts&play_token=vYUr3MghBD
+#EXTINF:-1 tvg-name="RU: NICK JUNIOR" group-title="RU| RUSSIAN HD/4K",RU: NICK JUNIOR
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439559&extension=ts&play_token=aPaRfPR7XB
+#EXTINF:-1 tvg-name="RU: CARTOON NETWORK" group-title="RU| RUSSIAN HD/4K",RU: CARTOON NETWORK
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439558&extension=ts&play_token=vV9RusP3Za
+#EXTINF:-1 tvg-name="RU: DISNEY CHANNEL" group-title="RU| RUSSIAN HD/4K",RU: DISNEY CHANNEL
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439557&extension=ts&play_token=GD3HfG3RKy
+#EXTINF:-1 tvg-name="RU: BOOMERANG TV" group-title="RU| RUSSIAN HD/4K",RU: BOOMERANG TV
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439556&extension=ts&play_token=ygBHNEbzEA
+#EXTINF:-1 tvg-name="RU: JIM JAM" group-title="RU| RUSSIAN HD/4K",RU: JIM JAM
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439555&extension=ts&play_token=fTEfVXnrIB
+#EXTINF:-1 tvg-name="RU: JIMJAM" group-title="RU| RUSSIAN HD/4K",RU: JIMJAM
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439554&extension=ts&play_token=B4gll9bHIr
+#EXTINF:-1 tvg-name="RU: STRANA" group-title="RU| RUSSIAN HD/4K",RU: STRANA
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439553&extension=ts&play_token=lp5l3FdXFN
+#EXTINF:-1 tvg-name="RU: GULLI" group-title="RU| RUSSIAN HD/4K",RU: GULLI
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439552&extension=ts&play_token=VoluFrWHeF
+#EXTINF:-1 tvg-name="RU: 2X2" group-title="RU| RUSSIAN HD/4K",RU: 2X2
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439551&extension=ts&play_token=6RGDFw6P48
+#EXTINF:-1 tvg-name="RU: ANI" group-title="RU| RUSSIAN HD/4K",RU: ANI
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439550&extension=ts&play_token=yZCkalHYXh
+#EXTINF:-1 tvg-name="RU: O!" group-title="RU| RUSSIAN HD/4K",RU: O!
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439549&extension=ts&play_token=Ds4svLv784
+#EXTINF:-1 tvg-name="######## MUSIC ########" group-title="RU| RUSSIAN HD/4K",######## MUSIC ########
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439548&extension=ts&play_token=40mPvgJoIv
+#EXTINF:-1 tvg-name="RU: 1 HD" group-title="RU| RUSSIAN HD/4K",RU: 1 HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439547&extension=ts&play_token=sgJuoUpCkY
+#EXTINF:-1 tvg-name="RU: MUZ" group-title="RU| RUSSIAN HD/4K",RU: MUZ
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439546&extension=ts&play_token=OXmGC2inoA
+#EXTINF:-1 tvg-name="RU: RU TV" group-title="RU| RUSSIAN HD/4K",RU: RU TV
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439545&extension=ts&play_token=GoS4YNc3ti
+#EXTINF:-1 tvg-name="RU: TNT MUSIC" group-title="RU| RUSSIAN HD/4K",RU: TNT MUSIC
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439544&extension=ts&play_token=z2HphonEYY
+#EXTINF:-1 tvg-name="RU: RUSSIAN MUSICBOX" group-title="RU| RUSSIAN HD/4K",RU: RUSSIAN MUSICBOX
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439543&extension=ts&play_token=QTKydAzghj
+#EXTINF:-1 tvg-name="RU: EUROPA PLUS TV" group-title="RU| RUSSIAN HD/4K",RU: EUROPA PLUS TV
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439542&extension=ts&play_token=xlO7BtljOC
+#EXTINF:-1 tvg-name="RU: FIRST MUSIC CHANNEL 1BY HD" group-title="RU| RUSSIAN HD/4K",RU: FIRST MUSIC CHANNEL 1BY HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439541&extension=ts&play_token=gHaRbP2hzo
+#EXTINF:-1 tvg-name="RU: BRIDGE HD" group-title="RU| RUSSIAN HD/4K",RU: BRIDGE HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439540&extension=ts&play_token=QUqSJJY3zJ
+#EXTINF:-1 tvg-name="RU: BRIDGE TV" group-title="RU| RUSSIAN HD/4K",RU: BRIDGE TV
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439539&extension=ts&play_token=fpdfd0dvGD
+#EXTINF:-1 tvg-name="RU: BRIDGE TV RUSSKIY HIT" group-title="RU| RUSSIAN HD/4K",RU: BRIDGE TV RUSSKIY HIT
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439538&extension=ts&play_token=VdGu1jdQZz
+#EXTINF:-1 tvg-name="RU: MTV" group-title="RU| RUSSIAN HD/4K",RU: MTV
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439537&extension=ts&play_token=iyrJmojJQA
+#EXTINF:-1 tvg-name="RU: MTV HITS" group-title="RU| RUSSIAN HD/4K",RU: MTV HITS
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439536&extension=ts&play_token=4xizE1wyQA
+#EXTINF:-1 tvg-name="RU: MTV LIVE HD" group-title="RU| RUSSIAN HD/4K",RU: MTV LIVE HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439535&extension=ts&play_token=I0uTfSJbJk
+#EXTINF:-1 tvg-name="RU: MYZEN TV HD" group-title="RU| RUSSIAN HD/4K",RU: MYZEN TV HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439534&extension=ts&play_token=3G0PUZV0rR
+#EXTINF:-1 tvg-name="RU: ENGLISH CLUB" group-title="RU| RUSSIAN HD/4K",RU: ENGLISH CLUB
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439533&extension=ts&play_token=lAUiI4QXmV
+#EXTINF:-1 tvg-name="RU: MCM TOP" group-title="RU| RUSSIAN HD/4K",RU: MCM TOP
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439532&extension=ts&play_token=3zAYbbA5VE
+#EXTINF:-1 tvg-name="RU: LA MINOR" group-title="RU| RUSSIAN HD/4K",RU: LA MINOR
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439531&extension=ts&play_token=KuSCBt4ZkI
+#EXTINF:-1 tvg-name="RU: MUZIKA PERVOGO" group-title="RU| RUSSIAN HD/4K",RU: MUZIKA PERVOGO
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439530&extension=ts&play_token=dtjUporKmr
+#EXTINF:-1 tvg-name="RU: DANGE TV" group-title="RU| RUSSIAN HD/4K",RU: DANGE TV
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439529&extension=ts&play_token=3lJuXls97Z
+#EXTINF:-1 tvg-name="RU: SHANSON TV" group-title="RU| RUSSIAN HD/4K",RU: SHANSON TV
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439528&extension=ts&play_token=oLrnZojweu
+#EXTINF:-1 tvg-name="######## SPORT ########" group-title="RU| RUSSIAN HD/4K",######## SPORT ########
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439527&extension=ts&play_token=Wo7EBxUh0c
+#EXTINF:-1 tvg-name="RU: KHL" group-title="RU| RUSSIAN HD/4K",RU: KHL
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439526&extension=ts&play_token=591WlQ2N4s
+#EXTINF:-1 tvg-name="RU: KHL HD" group-title="RU| RUSSIAN HD/4K",RU: KHL HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439525&extension=ts&play_token=RLxWXFx1N4
+#EXTINF:-1 tvg-name="RU: BOX TV" group-title="RU| RUSSIAN HD/4K",RU: BOX TV
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439524&extension=ts&play_token=uZBBwBIiAU
+#EXTINF:-1 tvg-name="RU: ABTO24" group-title="RU| RUSSIAN HD/4K",RU: ABTO24
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439523&extension=ts&play_token=sulFICCVWz
+#EXTINF:-1 tvg-name="RU: AUTO 24" group-title="RU| RUSSIAN HD/4K",RU: AUTO 24
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439522&extension=ts&play_token=lWLm19Mr7E
+#EXTINF:-1 tvg-name="RU: AUTO PLUS" group-title="RU| RUSSIAN HD/4K",RU: AUTO PLUS
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439521&extension=ts&play_token=YzfX3gCtkv
+#EXTINF:-1 tvg-name="RU: EUROSPORT" group-title="RU| RUSSIAN HD/4K",RU: EUROSPORT
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439520&extension=ts&play_token=ZFq99ugSG6
+#EXTINF:-1 tvg-name="RU: EUROSPORT HD" group-title="RU| RUSSIAN HD/4K",RU: EUROSPORT HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439519&extension=ts&play_token=z5Szlu5apL
+#EXTINF:-1 tvg-name="RU: EUROSPORT 2 HD" group-title="RU| RUSSIAN HD/4K",RU: EUROSPORT 2 HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439518&extension=ts&play_token=XCXftaNUqd
+#EXTINF:-1 tvg-name="RU: MOTORSPORT TV" group-title="RU| RUSSIAN HD/4K",RU: MOTORSPORT TV
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439517&extension=ts&play_token=xBmvIzjhCM
+#EXTINF:-1 tvg-name="RU: EXTREME SPORTS" group-title="RU| RUSSIAN HD/4K",RU: EXTREME SPORTS
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439516&extension=ts&play_token=QOlBDJaDZY
+#EXTINF:-1 tvg-name="RU: RUSSKIY EXTRIM HD" group-title="RU| RUSSIAN HD/4K",RU: RUSSKIY EXTRIM HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439515&extension=ts&play_token=wYmCeVP2wZ
+#EXTINF:-1 tvg-name="RU: START TV" group-title="RU| RUSSIAN HD/4K",RU: START TV
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439514&extension=ts&play_token=qq9nuCRoAL
+#EXTINF:-1 tvg-name="RU: MATCH TV" group-title="RU| RUSSIAN HD/4K",RU: MATCH TV
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439513&extension=ts&play_token=oNXhWm6EDo
+#EXTINF:-1 tvg-name="RU: MATCHBOEC" group-title="RU| RUSSIAN HD/4K",RU: MATCHBOEC
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439512&extension=ts&play_token=LzcPlkpouc
+#EXTINF:-1 tvg-name="RU: MATCH IGRA HD" group-title="RU| RUSSIAN HD/4K",RU: MATCH IGRA HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439511&extension=ts&play_token=7ZktzKKtlK
+#EXTINF:-1 tvg-name="RU: MATCH STRANA" group-title="RU| RUSSIAN HD/4K",RU: MATCH STRANA
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439510&extension=ts&play_token=semGW0ICWz
+#EXTINF:-1 tvg-name="RU: MATCH ARENA" group-title="RU| RUSSIAN HD/4K",RU: MATCH ARENA
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439509&extension=ts&play_token=kg05CRuj7K
+#EXTINF:-1 tvg-name="RU: MATCH ARENA HD" group-title="RU| RUSSIAN HD/4K",RU: MATCH ARENA HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439508&extension=ts&play_token=IhjRyXMiuW
+#EXTINF:-1 tvg-name="RU: MATCH FOOTBALL 1 HD" group-title="RU| RUSSIAN HD/4K",RU: MATCH FOOTBALL 1 HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439507&extension=ts&play_token=t2FFoZ4HPR
+#EXTINF:-1 tvg-name="RU: MATCH FOOTBALL 2 HD" group-title="RU| RUSSIAN HD/4K",RU: MATCH FOOTBALL 2 HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439506&extension=ts&play_token=cKMehyq4xy
+#EXTINF:-1 tvg-name="RU: MATCH! FUTBOL 2 HD" group-title="RU| RUSSIAN HD/4K",RU: MATCH! FUTBOL 2 HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439505&extension=ts&play_token=2UBmU6fXE0
+#EXTINF:-1 tvg-name="RU: MATCH FOOTBALL 2" group-title="RU| RUSSIAN HD/4K",RU: MATCH FOOTBALL 2
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439504&extension=ts&play_token=VOwE3cNunH
+#EXTINF:-1 tvg-name="RU: MATCH! FUTBOL 3 HD" group-title="RU| RUSSIAN HD/4K",RU: MATCH! FUTBOL 3 HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439503&extension=ts&play_token=YJ8dndbFeT
+#EXTINF:-1 tvg-name="RU: MATCH FOOTBALL 3 HD" group-title="RU| RUSSIAN HD/4K",RU: MATCH FOOTBALL 3 HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439502&extension=ts&play_token=WbUUek0feG
+#EXTINF:-1 tvg-name="RU: MATCH FOOTBALL 3" group-title="RU| RUSSIAN HD/4K",RU: MATCH FOOTBALL 3
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439501&extension=ts&play_token=uGvkgz96P4
+#EXTINF:-1 tvg-name="RU: MATCH HD" group-title="RU| RUSSIAN HD/4K",RU: MATCH HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439500&extension=ts&play_token=jNuE1kdmHD
+#EXTINF:-1 tvg-name="RU: MATCH NASH SPORT" group-title="RU| RUSSIAN HD/4K",RU: MATCH NASH SPORT
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439499&extension=ts&play_token=oRF6WpCmCu
+#EXTINF:-1 tvg-name="RU: MATCH BOEC" group-title="RU| RUSSIAN HD/4K",RU: MATCH BOEC
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439498&extension=ts&play_token=LRYQ2xCYfj
+#EXTINF:-1 tvg-name="RU: MATCH FOOTBALL 1" group-title="RU| RUSSIAN HD/4K",RU: MATCH FOOTBALL 1
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439497&extension=ts&play_token=oyxZJNozmk
+#EXTINF:-1 tvg-name="RU: MATCH IGRA" group-title="RU| RUSSIAN HD/4K",RU: MATCH IGRA
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439496&extension=ts&play_token=wpPqdGdJs0
+#EXTINF:-1 tvg-name="RU: TELEKANAL FUTBOL" group-title="RU| RUSSIAN HD/4K",RU: TELEKANAL FUTBOL
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439495&extension=ts&play_token=IRrj8HQ1hO
+#EXTINF:-1 tvg-name="RU: SETANTA SPORT" group-title="RU| RUSSIAN HD/4K",RU: SETANTA SPORT
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439494&extension=ts&play_token=JxAeHeLuIA
+#EXTINF:-1 tvg-name="RU: KONNIY MIR HD" group-title="RU| RUSSIAN HD/4K",RU: KONNIY MIR HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439493&extension=ts&play_token=zdrbWMgZP1
+#EXTINF:-1 tvg-name="RU: SETANTA SPORT 1 4K" group-title="RU| RUSSIAN HD/4K",RU: SETANTA SPORT 1 4K
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439492&extension=ts&play_token=BSm0lzp96i
+#EXTINF:-1 tvg-name="RU: SETANTA SPORT 2" group-title="RU| RUSSIAN HD/4K",RU: SETANTA SPORT 2
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439491&extension=ts&play_token=3kB5Q8YzBY
+#EXTINF:-1 tvg-name="RU: SETANTA SPORT 2" group-title="RU| RUSSIAN HD/4K",RU: SETANTA SPORT 2
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:28:12:58&stream=439490&extension=ts&play_token=tTdPVn6Cfd
